@@ -7,7 +7,7 @@ node_modules
 coverage
 
 # production
-lib
+lib/*.flow
 
 # misc
 .DS_Store
